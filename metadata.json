@@ -1,0 +1,6 @@
+{
+  "name": "NovaLock",
+  "description": "Samsung Good Lock-inspired Android customization suite with modular personalization for appearance, navigation, audio, and utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
